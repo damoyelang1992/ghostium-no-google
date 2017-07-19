@@ -6,6 +6,12 @@
 
 **NOT UNDER ACTIVE DEVELOPMENT**
 
+## 中文版修改说明：
+
+安装方式和原来的一样 删除了 google font， css 、js 全部从 bootcdn 加载。
+
+修改教程 [简书文章](http://www.jianshu.com/p/0e92f91334bf)
+
 ## Table of contents
 
 * [Features](#features)
